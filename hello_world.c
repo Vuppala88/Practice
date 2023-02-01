@@ -5,6 +5,6 @@
 #include <stdio.h> /* Here all the standard libraries are called from headers */
 int main()
 {
-	printf("hello\tworld\n"); /*printf is standard input output library where l;ogic is implemented in header stdio*/
+	printf("h\bello\tworld\n"); /*printf is standard input output library where l;ogic is implemented in header stdio*/
 	return 0;
 }
